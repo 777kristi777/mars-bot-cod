@@ -1,0 +1,19 @@
+Ezeket tölsd le és ragd be egy olyan mappába ami nek pl az a neve hogy dc_bot aztán
+tölsd le a visual stodio cod-ot és a node.js amiből az LTS vezió tölsd le.
+a visual stodio codban pedi csináld azt hogy ha angol open folder és rakjátok be a discord bototok mappáját.
+ezután már csak annyi a dolgod hogy bemész a tokenfile.json be és a tokenedet berakod aoda ahová kell és bemész a botconfig.json be
+és ott is a szöveg hejére ragd be a te prefixede [bármi lehet több karakteres is akár] aztán meny be az index.js és ott csináld azt amiket oda írtam.
+és utólsó elötti lépéské nomd meg a ctrl+ö betüt és írd be hogy "npm install discord.js --save" és "npm install discord.js-commando --save"
+és utána már csak írd be ugyanoda a consolba hogy "node ."
+
+
+
+Linkeke: 
+
+visual studio cod: https://visualstudio.microsoft.com/
+
+node.js: https://nodejs.org/en/
+
+ezen a csatornán hamarosan fogsz találni discord bot tutorial (amúgy meg egy jó gameplay csati is)
+
+csatornám: https://www.youtube.com/channel/UCvjYo833Qg5j30T5kxRiC2Q
