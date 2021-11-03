@@ -7,9 +7,9 @@ bot.on("ready", async() => {
     console.log(`${bot.user.username} elindult!`)
 
     let státuszok = [
-        "Prefix: !",
-        "Készítő: magyar games",
-        "menő :D"
+        "Prefix: ide a prefixed",
+        "Készítő: ide írd me a neved",
+        "ide meg amit akarsz és ebből még lehet többet is csinálni"
     ]
 
     setInterval(function() {
